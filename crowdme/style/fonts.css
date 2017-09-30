@@ -1,0 +1,64 @@
+@font-face {
+    font-family:'Open Sans';
+    src: url('../fonts/open-sans/Open Sans.eot');
+	src: url('../fonts/open-sans/Open Sans.eot?#iefix') format('embedded-opentype'),
+		url('../fonts/open-sans/Open Sans.woff2') format('woff2'),
+		url('../fonts/open-sans/Open Sans.woff') format('woff'),
+		url('../fonts/open-sans/Open Sans.svg#Open Sans') format('svg');
+    font-weight: 400;
+    font-style: normal;
+    font-stretch: normal;
+    unicode-range: U+0020-2212;
+}
+
+@font-face {
+    font-family:'Open Sans Light';
+    src: url('../fonts/open-sans/Open Sans Light.eot');
+    src: url('../fonts/open-sans/Open Sans Light.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/open-sans/Open Sans Light.woff2') format('woff2'),
+    url('../fonts/open-sans/Open Sans Light.woff') format('woff'),
+    url('../fonts/open-sans/Open Sans Light.svg#Open Sans Light') format('svg');
+    font-weight: 300;
+    font-style: normal;
+    font-stretch: normal;
+    unicode-range: U+0020-2212;
+}
+
+@font-face {
+    font-family:'Open Sans';
+    src: url('../fonts/open-sans/Open Sans Bold.eot');
+	src: url('../fonts/open-sans/Open Sans Bold.eot?#iefix') format('embedded-opentype'),
+		url('../fonts/open-sans/Open Sans Bold.woff2') format('woff2'),
+		url('../fonts/open-sans/Open Sans Bold.woff') format('woff'),
+		url('../fonts/open-sans/Open Sans Bold.svg#Open Sans Bold') format('svg');
+    font-weight: 700;
+    font-style: normal;
+    font-stretch: normal;
+    unicode-range: U+0020-2074;
+}
+
+@font-face {
+    font-family:'Open Sans Semibold';
+    src: url('../fonts/open-sans/Open Sans Semibold.eot');
+	src: url('../fonts/open-sans/Open Sans Semibold.eot?#iefix') format('embedded-opentype'),
+		url('../fonts/open-sans/Open Sans Semibold.woff2') format('woff2'),
+		url('../fonts/open-sans/Open Sans Semibold.woff') format('woff'),
+		url('../fonts/open-sans/Open Sans Semibold.svg#Open Sans Semibold') format('svg');
+    font-weight: 600;
+    font-style: normal;
+    font-stretch: normal;
+    unicode-range: U+0020-2074;
+}
+
+@font-face {
+    font-family:'Open Sans Extrabold';
+    src: url('../fonts/open-sans/Open Sans Extrabold.eot');
+	src: url('../fonts/open-sans/Open Sans Extrabold.eot?#iefix') format('embedded-opentype'),
+		url('../fonts/open-sans/Open Sans Extrabold.woff2') format('woff2'),
+		url('../fonts/open-sans/Open Sans Extrabold.woff') format('woff'),
+		url('../fonts/open-sans/Open Sans Extrabold.svg#Open Sans Extrabold') format('svg');
+    font-weight: 800;
+    font-style: normal;
+    font-stretch: normal;
+    unicode-range: U+0020-2074;
+}
