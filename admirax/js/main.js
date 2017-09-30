@@ -1,0 +1,2 @@
+$(document).ready(function(){$(".main-mobile-nav, .main-nav").on("click","a",function(e){$(".mobile-nav").removeClass("active"),e.preventDefault();var t=$(this).attr("href"),n=$(t).offset().top;$("body,html").animate({scrollTop:n},1500)}),$(".menu-toggle").click(function(){$(this).toggleClass("active"),$(".mobile-nav").toggleClass("active")}),$(".nav-close").click(function(){$(".mobile-nav").removeClass("active")}),$(function(){$("select").selectric()}),(new WOW).init()});
+//# sourceMappingURL=main.js.map
